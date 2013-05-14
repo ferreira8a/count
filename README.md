@@ -1,0 +1,4 @@
+count
+=====
+
+Counter for stats
